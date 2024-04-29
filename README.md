@@ -68,9 +68,9 @@ src="https://user-images.githubusercontent.com/33343210/61610594-c3f7c900-ac83-1
 
 ### Submite by 
 
-
+<dl>
 * <i>Shahad Jaber</i>
 * <i>Shahad  Fahad</i>
 * <i>Amain Al-Qusi</i>
-*<i>Atyaf Abdh</i>
-
+* <i>Atyaf Abdh</i>
+</dl>
