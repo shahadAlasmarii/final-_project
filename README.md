@@ -11,16 +11,15 @@
 * Metadata editor
 * Learn your hobby, automatically create new playlist
 * etc
+## use case
+<img width="500"
+src="https://raw.githubusercontent.com/shahadAlasmarii/apk/720ed375a1a8c46bf9e286185eae9b2ae159ea2c/Untitled.png"/>
+       
 
-### Installing
-The app will be available in Google Play Store soon.
-```
-Comming soon
-```
 ### APK
-Download apk file here [Music player v1.3](https://github.com/dtrung98/Source/raw/master/musicr.apk)
+Download apk file here [Music player v1.3](https://github.com/shahadAlasmarii/apk/raw/main/musicr.apk)
 ```
-https://github.com/dtrung98/Source/raw/master/musicr.apk
+https://github.com/shahadAlasmarii/apk/raw/main/musicr.apk
 ```
 ## Screenshots
 </br>
@@ -57,26 +56,21 @@ src="https://user-images.githubusercontent.com/33343210/61611355-c6f3b900-ac85-1
     <td> <img width="360"
 src="https://user-images.githubusercontent.com/33343210/61610594-c3f7c900-ac83-11e9-8ccf-1a6d989631d2.png"/></td>
     <td> <img width="360"
-src="https://user-images.githubusercontent.com/33343210/61611516-2d78d700-ac86-11e9-9187-c53e91a2b891.png"/></td>
-     <td> <img width="360"
-src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-11e9-9903-241fa144582b.png"/></td>
+
   </tr>
 </table>
   </div>
 </br>
 
-## Authors
-
-* **Le Dinh Trung (ldt)** - *Initial work* - [dtrung98](https://github.com/dtrung98)
-
-
 ### License
 
 * This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](/LICENSE) file for details
 
-### Acknowledgments
+### Submite by 
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+
+* <i>Shahad Jaber</i>
+* <i>Shahad  Fahad</i>
+* <i>Amain Al-Qusi</i>
+*<i>Atyaf Abdh</i>
 
